@@ -6,7 +6,7 @@ import Footer from './footer.js'
 
 function App() {
   return (
-    <div className="container">
+    <div className="fluid-container">
       <NavBar /> 
 
       <main role="main">
